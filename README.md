@@ -155,12 +155,3 @@ The project includes both serializers for data validation and model manipulation
 - **Django** (v4.2+)
 - **Django REST Framework** (v3.14+)
 
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this description based on your specific repository setup or preferences!
