@@ -20,5 +20,6 @@ from woman.views import WomanAPIView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/v1/womenlist/', WomanAPIView.as_view())
+    path('api/v1/womenlist/', WomanAPIView.as_view()),
+    path('api/v1/womenlist/<int:pk>/', WomanAPIView.as_view())
 ]
